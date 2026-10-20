@@ -1,0 +1,3781 @@
+{
+  "lessons": [
+    {
+      "id": "sounds",
+      "group": "零基础",
+      "title": "葡语发音与重音",
+      "emoji": "🔊",
+      "tag": "巴西葡语",
+      "idea": "先不用死背音标。看到重音符号，就知道这里可能要特别注意发音。",
+      "rules": [
+        [
+          "á / é / í / ó / ú",
+          "重音符号 ´：通常标出重读元音；开闭口还会因字母而不同。"
+        ],
+        [
+          "ê / ô",
+          "尖帽 ^：标重读，也提示相应元音发音。"
+        ],
+        [
+          "ã / õ",
+          "波浪 ~：鼻化音，不是简单的英文 n。"
+        ],
+        [
+          "ç",
+          "ç 通常读 /s/；如 coração。"
+        ],
+        [
+          "ti / di",
+          "巴西很多地区的 ti / di 常发得接近“chi / ji”，但地区口音有差异。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "você",
+          "zh": "你（重音落在 cê）"
+        },
+        {
+          "pt": "amanhã",
+          "zh": "明天；ã 有鼻化音"
+        },
+        {
+          "pt": "até já",
+          "zh": "待会见；até 有重音"
+        }
+      ],
+      "trap": "重音符号不代表每个带符号的字母都读同一个音。",
+      "chant": "符号是路标：先认位置，再听发音。"
+    },
+    {
+      "id": "greetings",
+      "group": "零基础",
+      "title": "见面、道别、礼貌用语",
+      "emoji": "👋",
+      "tag": "一见面就能说",
+      "idea": "先按场景记住整句话，比拆成一个个词容易。",
+      "rules": [
+        [
+          "Oi! / Olá!",
+          "嗨！/ 你好！"
+        ],
+        [
+          "Bom dia / Boa tarde / Boa noite",
+          "早上好 / 下午好 / 晚上好、晚安"
+        ],
+        [
+          "Tudo bem? / Como vai?",
+          "一切好吗？/ 近来如何？"
+        ],
+        [
+          "Obrigado / Obrigada",
+          "谢谢：通常男性说 obrigado，女性说 obrigada。"
+        ],
+        [
+          "Com licença / Desculpe",
+          "借过/打扰一下；对不起/不好意思。"
+        ],
+        [
+          "Até logo / Tchau",
+          "回头见 / 再见"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Oi! Tudo bem?",
+          "zh": "嗨！最近好吗？"
+        },
+        {
+          "pt": "Boa noite, professora.",
+          "zh": "老师，晚上好。"
+        },
+        {
+          "pt": "Muito obrigada!",
+          "zh": "非常感谢！（女性说）"
+        }
+      ],
+      "trap": "Bom dia 的 bom 不变；boa tarde / boa noite 用 boa。",
+      "chant": "早 bom，午晚 boa；谢谢跟说话人。"
+    },
+    {
+      "id": "pronouns",
+      "group": "零基础",
+      "title": "人称代词：谁在做？",
+      "emoji": "🧍",
+      "tag": "选对动词的第一步",
+      "idea": "葡语动词先找主语：我、你、他/她、我们、他们。",
+      "rules": [
+        [
+          "eu",
+          "我：动词常用第一人称单数。"
+        ],
+        [
+          "você / ele / ela",
+          "你/他/她：三者通常使用相同的第三人称单数形式。"
+        ],
+        [
+          "nós",
+          "我们：第一人称复数。"
+        ],
+        [
+          "vocês / eles / elas",
+          "你们/他们/她们：第三人称复数。"
+        ],
+        [
+          "o senhor / a senhora",
+          "较正式的称呼，也搭配第三人称单数动词。"
+        ],
+        [
+          "tu",
+          "部分巴西地区常用；动词形式随地区和语境变化，本网站先练 você。"
+        ],
+        [
+          "Ana e eu → nós",
+          "某人 + 我 = 我们。"
+        ],
+        [
+          "Ana e Paulo → eles",
+          "两个人中包含男性时通常用 eles；全女性用 elas。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu estudo português.",
+          "zh": "我学习葡语。"
+        },
+        {
+          "pt": "Você estuda português.",
+          "zh": "你学习葡语。"
+        },
+        {
+          "pt": "Ana e eu estudamos.",
+          "zh": "安娜和我学习。"
+        }
+      ],
+      "trap": "“Os livros” 是名词复数，不是省略了 eu。",
+      "chant": "我 eu；你/他/她一个队；我们 nós；他们第三复。"
+    },
+    {
+      "id": "ser",
+      "group": "基本句子",
+      "title": "SER：身份、来源、属性",
+      "emoji": "🪪",
+      "tag": "我是谁",
+      "idea": "ser 常用来说明身份、职业、国籍、定义、较稳定的特点。",
+      "rules": [
+        [
+          "eu sou",
+          "我是"
+        ],
+        [
+          "você / ele / ela é",
+          "你/他/她是"
+        ],
+        [
+          "nós somos",
+          "我们是"
+        ],
+        [
+          "vocês / eles / elas são",
+          "你们/他们是"
+        ],
+        [
+          "não + 动词",
+          "não 放在变位动词前：Eu não sou..."
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu sou estudante.",
+          "zh": "我是学生。"
+        },
+        {
+          "pt": "Ela é brasileira.",
+          "zh": "她是巴西人。"
+        },
+        {
+          "pt": "Nós somos amigos.",
+          "zh": "我们是朋友。"
+        }
+      ],
+      "trap": "不要用 eu é；也不是所有“长久的”都 ser、“暂时的”都 estar，这是入门判断法。",
+      "chant": "身份像身份证：sou, é, somos, são。"
+    },
+    {
+      "id": "articles",
+      "group": "基本句子",
+      "title": "定冠词 vs 不定冠词",
+      "emoji": "🧩",
+      "tag": "o / a / os / as",
+      "idea": "冠词跟在名词前，看这个名词的阴阳性和单复数，不看前面是谁。",
+      "rules": [
+        [
+          "o / a",
+          "阳性单数 / 阴性单数，相当于“这个/那个/所指的”。"
+        ],
+        [
+          "os / as",
+          "阳性复数 / 阴性复数。"
+        ],
+        [
+          "um / uma",
+          "一个：阳性 / 阴性。"
+        ],
+        [
+          "uns / umas",
+          "一些：阳性复数 / 阴性复数。"
+        ],
+        [
+          "定冠词",
+          "指特定或已知的人和东西，也用于多种习惯表达。"
+        ],
+        [
+          "不定冠词",
+          "首次提到或强调“一个/一些”。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "o livro / os livros",
+          "zh": "这本书 / 这些书"
+        },
+        {
+          "pt": "a aula / as aulas",
+          "zh": "这节课 / 这些课"
+        },
+        {
+          "pt": "uma professora",
+          "zh": "一位女教师"
+        }
+      ],
+      "trap": "o 不一定直接等于英语 the 的每一种用法；不要看到 eu 就选 o。",
+      "chant": "先看名词性别，再看数量。"
+    },
+    {
+      "id": "gender",
+      "group": "基本句子",
+      "title": "名词阴阳性和复数",
+      "emoji": "⚖️",
+      "tag": "名词给答案",
+      "idea": "先记带冠词的单词：o livro、a aula。结尾是提示，不是百分百定律。",
+      "rules": [
+        [
+          "常见阳性",
+          "不少 -o 结尾：o livro；但 o problema 是例外。"
+        ],
+        [
+          "常见阴性",
+          "不少 -a 结尾：a casa；但 o dia 是例外。"
+        ],
+        [
+          "复数通常 + s",
+          "livro → livros；aula → aulas。"
+        ],
+        [
+          "-m → -ns",
+          "homem → homens。"
+        ],
+        [
+          "-l → -is",
+          "papel → papéis（有时还会有重音变化）。"
+        ],
+        [
+          "形容词可能配合",
+          "amigo brasileiro / amiga brasileira。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "o computador",
+          "zh": "电脑（阳性）"
+        },
+        {
+          "pt": "o mês",
+          "zh": "月份（阳性）"
+        },
+        {
+          "pt": "a universidade",
+          "zh": "大学（阴性）"
+        }
+      ],
+      "trap": "“所有 -a 结尾都是阴性”是错的；把冠词跟着词一起背。",
+      "chant": "冠词就是名词的身份证：o 男，a 女；os/as 复数。"
+    },
+    {
+      "id": "classroom",
+      "group": "学校生活",
+      "title": "大学、课堂和日常物品",
+      "emoji": "🎓",
+      "tag": "Lição 1",
+      "idea": "词汇最容易混；别孤零零背 biblioteca，要背 a biblioteca。",
+      "rules": [
+        [
+          "estudar",
+          "学习"
+        ],
+        [
+          "trabalhar",
+          "工作"
+        ],
+        [
+          "a aula / as aulas",
+          "课 / 课程"
+        ],
+        [
+          "o curso",
+          "课程、专业课"
+        ],
+        [
+          "o professor / a professora",
+          "男教师 / 女教师"
+        ],
+        [
+          "o aluno / a aluna",
+          "男学生 / 女学生"
+        ],
+        [
+          "a biblioteca",
+          "图书馆"
+        ],
+        [
+          "a livraria",
+          "书店！不是图书馆。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu estudo na universidade.",
+          "zh": "我在大学学习。"
+        },
+        {
+          "pt": "A professora tem um livro.",
+          "zh": "老师有一本书。"
+        },
+        {
+          "pt": "Tenho aula de Química.",
+          "zh": "我有化学课。"
+        }
+      ],
+      "trap": "livraria ≠ library。英语 library 是 a biblioteca。",
+      "chant": "读书 biblioteca；买书 livraria。"
+    },
+    {
+      "id": "numbers",
+      "group": "学校生活",
+      "title": "数字 0–99、价格和时间",
+      "emoji": "🔢",
+      "tag": "小数字大用途",
+      "idea": "0–20 重点背；21 开始基本是“十位 + e + 个位”。",
+      "rules": [
+        [
+          "0–10",
+          "zero, um/uma, dois/duas, três, quatro, cinco, seis, sete, oito, nove, dez"
+        ],
+        [
+          "11–20",
+          "onze, doze, treze, catorze/quatorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte"
+        ],
+        [
+          "30/40/50",
+          "trinta, quarenta, cinquenta"
+        ],
+        [
+          "60/70/80/90",
+          "sessenta, setenta, oitenta, noventa"
+        ],
+        [
+          "21",
+          "vinte e um；数字搭配名词时注意 um/uma。"
+        ],
+        [
+          "reais",
+          "货币 real 的复数，例：trinta reais。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Trinta e quatro reais.",
+          "zh": "34 雷亚尔。"
+        },
+        {
+          "pt": "Vinte e duas alunas.",
+          "zh": "22 名女学生。"
+        },
+        {
+          "pt": "Tenho três aulas.",
+          "zh": "我有三节课。"
+        }
+      ],
+      "trap": "“e”在 21–99 的非整十数字中连接十位和个位。",
+      "chant": "20 vinte + e + 3 três = vinte e três。"
+    },
+    {
+      "id": "locations",
+      "group": "基本句子",
+      "title": "EM、DE 与 no/na/do/da",
+      "emoji": "📍",
+      "tag": "最常错！",
+      "idea": "先看需要哪种关系，再看后面名词是什么。口诀：前半决定介词，后半决定合体。",
+      "rules": [
+        [
+          "em",
+          "在……地方（地点、位置）。"
+        ],
+        [
+          "de",
+          "来自/属于/关于；也可表示某类课程。"
+        ],
+        [
+          "em + o/a/os/as",
+          "no / na / nos / nas。"
+        ],
+        [
+          "de + o/a/os/as",
+          "do / da / dos / das。"
+        ],
+        [
+          "em + um/uma",
+          "num / numa（常见；不用一股脑都合）。"
+        ],
+        [
+          "地名",
+          "巴西常说 no Brasil，em Portugal；国家冠词有习惯差异。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu estudo na biblioteca.",
+          "zh": "我在图书馆学习。（a biblioteca → na）"
+        },
+        {
+          "pt": "O livro do professor.",
+          "zh": "老师的书。（o professor → do）"
+        },
+        {
+          "pt": "Ela mora no Brasil.",
+          "zh": "她住在巴西。（o Brasil → no）"
+        }
+      ],
+      "trap": "na/no 不是跟 eu/você 变，而是跟后面的名词的冠词变。",
+      "chant": "先问“在还是来自/属于”，再问“后面 o 还是 a”。"
+    },
+    {
+      "id": "to",
+      "group": "基本句子",
+      "title": "A + 冠词：ao / à",
+      "emoji": "➡️",
+      "tag": "去哪里",
+      "idea": "a 也可表示方向；遇到阳性 o 合为 ao，遇到阴性 a 合为 à。",
+      "rules": [
+        [
+          "a + o → ao",
+          "去 + 阳性单数地点。"
+        ],
+        [
+          "a + a → à",
+          "去 + 阴性单数地点；à 带重音。"
+        ],
+        [
+          "a + os → aos",
+          "去 + 阳性复数。"
+        ],
+        [
+          "a + as → às",
+          "去 + 阴性复数。"
+        ],
+        [
+          "动词搭配很重要",
+          "ir a 表示前往；日常巴西口语也常说 ir para。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Vou ao museu.",
+          "zh": "我去博物馆。（o museu）"
+        },
+        {
+          "pt": "Vou à universidade.",
+          "zh": "我去大学。（a universidade）"
+        },
+        {
+          "pt": "Vou para casa.",
+          "zh": "我回家。"
+        }
+      ],
+      "trap": "à ≠ a；a + a 才能合成 à。",
+      "chant": "去 a：遇 o 变 ao，遇 a 变 à。"
+    },
+    {
+      "id": "ar",
+      "group": "动词变位",
+      "title": "-AR 动词：estudar、falar",
+      "emoji": "🛠️",
+      "tag": "第一组动词",
+      "idea": "去掉 -ar，按主语装上不同结尾。先背四个常用格即可。",
+      "rules": [
+        [
+          "eu",
+          "词根 + o：estudo / falo"
+        ],
+        [
+          "você / ele / ela",
+          "词根 + a：estuda / fala"
+        ],
+        [
+          "nós",
+          "词根 + amos：estudamos / falamos"
+        ],
+        [
+          "vocês / eles / elas",
+          "词根 + am：estudam / falam"
+        ],
+        [
+          "trabalhar",
+          "trabalho, trabalha, trabalhamos, trabalham"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu falo português.",
+          "zh": "我说葡语。"
+        },
+        {
+          "pt": "Nós estudamos juntos.",
+          "zh": "我们一起学习。"
+        },
+        {
+          "pt": "Eles trabalham à tarde.",
+          "zh": "他们下午工作。"
+        }
+      ],
+      "trap": "nós 不是 fala；Ana e eu → nós → falamos。",
+      "chant": "AR 四件套：o / a / amos / am。"
+    },
+    {
+      "id": "erir",
+      "group": "动词变位",
+      "title": "-ER、-IR 动词",
+      "emoji": "🧠",
+      "tag": "第二、三组",
+      "idea": "和 -AR 一样换词尾，但不同组不能混用。这里先学规则动词。",
+      "rules": [
+        [
+          "-ER: eu",
+          "-o：como（comer 吃）"
+        ],
+        [
+          "-ER: você",
+          "-e：come"
+        ],
+        [
+          "-ER: nós / eles",
+          "-emos / -em：comemos / comem"
+        ],
+        [
+          "-IR: eu",
+          "-o：abro（abrir 打开）"
+        ],
+        [
+          "-IR: você",
+          "-e：abre"
+        ],
+        [
+          "-IR: nós / eles",
+          "-imos / -em：abrimos / abrem"
+        ],
+        [
+          "规则之外",
+          "ter、ir、ser、estar 是不规则动词，要另记。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu como pão.",
+          "zh": "我吃面包。"
+        },
+        {
+          "pt": "Nós abrimos o livro.",
+          "zh": "我们打开书。"
+        },
+        {
+          "pt": "Eles comem juntos.",
+          "zh": "他们一起吃饭。"
+        }
+      ],
+      "trap": "“-IR 的 nós”是 -imos，不是 -emos。",
+      "chant": "ER: o e emos em；IR: o e imos em。"
+    },
+    {
+      "id": "estar",
+      "group": "动词变位",
+      "title": "SER vs ESTAR",
+      "emoji": "🌦️",
+      "tag": "两个“是”",
+      "idea": "先抓句意：身份/定义多用 ser；状态/所在地多用 estar。",
+      "rules": [
+        [
+          "ser",
+          "身份、国籍、职业、定义、通常的特点。"
+        ],
+        [
+          "estar",
+          "此刻状态、感觉、位置。"
+        ],
+        [
+          "eu estou",
+          "我处于……；我在……"
+        ],
+        [
+          "você / ele está",
+          "你/他处于……"
+        ],
+        [
+          "nós estamos",
+          "我们处于……"
+        ],
+        [
+          "eles estão",
+          "他们处于……（注意 ão）"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu sou estudante.",
+          "zh": "我是学生（身份）。"
+        },
+        {
+          "pt": "Eu estou cansada.",
+          "zh": "我现在累了（说话人女性）。"
+        },
+        {
+          "pt": "O livro está na mesa.",
+          "zh": "书在桌上（位置）。"
+        }
+      ],
+      "trap": "不要把“短期/长期”当成唯一规则；位置通常 estar，即使建筑不会移动。",
+      "chant": "ser 是名片；estar 是状态和位置。"
+    },
+    {
+      "id": "terha",
+      "group": "动词变位",
+      "title": "TER 和 HÁ / TEM",
+      "emoji": "🎒",
+      "tag": "有几种“有”？",
+      "idea": "ter 常表达“谁有”；há 表示“存在/有”，在巴西口语中 tem 也可表达“有、存在”。",
+      "rules": [
+        [
+          "ter",
+          "eu tenho, você tem, nós temos, eles têm。"
+        ],
+        [
+          "há",
+          "非人称表达“有/存在”；形式不随数量变化。"
+        ],
+        [
+          "tem",
+          "巴西口语常表示“有/存在”；正式书面语常用 há。"
+        ],
+        [
+          "数量",
+          "Há três livros. / Tem três livros.（口语）"
+        ],
+        [
+          "ter aula",
+          "有课：Tenho aula hoje。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu tenho um computador.",
+          "zh": "我有一台电脑。"
+        },
+        {
+          "pt": "Há uma biblioteca aqui.",
+          "zh": "这里有一个图书馆。"
+        },
+        {
+          "pt": "Eles têm aula de manhã.",
+          "zh": "他们上午有课。"
+        }
+      ],
+      "trap": "eles têm 有重音；ele tem 无重音。",
+      "chant": "我有 tenho；这里有 há（口语 tem）。"
+    },
+    {
+      "id": "questions",
+      "group": "学校生活",
+      "title": "怎么问问题、怎么否定",
+      "emoji": "❓",
+      "tag": "对话不慌",
+      "idea": "先记疑问词，然后在句子前后听/看上下文。葡语通常不需要像英语那样倒装助动词。",
+      "rules": [
+        [
+          "Quem?",
+          "谁？"
+        ],
+        [
+          "O que? / Que?",
+          "什么？"
+        ],
+        [
+          "Onde?",
+          "哪里？"
+        ],
+        [
+          "Quando?",
+          "什么时候？"
+        ],
+        [
+          "Quanto / Quanta / Quantos / Quantas?",
+          "多少？依后面名词性数变化。"
+        ],
+        [
+          "Como? / Por que?",
+          "怎么样？/ 为什么？"
+        ],
+        [
+          "não",
+          "放在动词前表达否定。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Onde você estuda?",
+          "zh": "你在哪里学习？"
+        },
+        {
+          "pt": "Quanto custa o livro?",
+          "zh": "这本书多少钱？"
+        },
+        {
+          "pt": "Não sei.",
+          "zh": "我不知道。"
+        }
+      ],
+      "trap": "Onde（哪里）不能回答“什么时候”；Quando 才问时间。",
+      "chant": "谁 quem，哪 onde，何时 quando，多少 quanto。"
+    },
+    {
+      "id": "countries",
+      "group": "学校生活",
+      "title": "国家、国籍、语言",
+      "emoji": "🌎",
+      "tag": "地名有小陷阱",
+      "idea": "国家名称、国籍形容词、语言名词是不同东西。首字母大小写也要注意。",
+      "rules": [
+        [
+          "国家",
+          "o Brasil、a China、Portugal、os Estados Unidos、o Japão。"
+        ],
+        [
+          "国籍",
+          "brasileiro/brasileira、chinês/chinesa、português/portuguesa。"
+        ],
+        [
+          "大小写",
+          "葡语国家名首字母大写；国籍和语言通常小写。"
+        ],
+        [
+          "来自",
+          "ser de：Sou do Brasil；Sou de Portugal。"
+        ],
+        [
+          "语言",
+          "Falo português；Estudo português。"
+        ],
+        [
+          "葡语国家",
+          "Portugal, Brasil, Timor-Leste, Angola, Moçambique, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, Guiné Equatorial。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Ela é brasileira.",
+          "zh": "她是巴西人。"
+        },
+        {
+          "pt": "Eu sou da China.",
+          "zh": "我来自中国。"
+        },
+        {
+          "pt": "Estudo português no Brasil.",
+          "zh": "我在巴西学习葡语。"
+        }
+      ],
+      "trap": "Brazil 是英语；葡语是 Brasil。国名大写，形容词一般小写。",
+      "chant": "国家大写，国籍小写；国籍跟人配阴阳。"
+    },
+    {
+      "id": "possessive",
+      "group": "朋友与关系",
+      "title": "所有格：meu/minha/dele",
+      "emoji": "💝",
+      "tag": "Lição 2 重点",
+      "idea": "先看“谁的”，再看“拥有的那个东西”是男是女、单数还是复数。",
+      "rules": [
+        [
+          "meu / minha / meus / minhas",
+          "我的；根据后面物品的阴阳性和数量改变。"
+        ],
+        [
+          "seu / sua / seus / suas",
+          "你的/他的/她的等，可能歧义；依物品配合。"
+        ],
+        [
+          "nosso / nossa / nossos / nossas",
+          "我们的；依物品配合。"
+        ],
+        [
+          "dele / dela",
+          "他的/她的，放在名词后面；性别指拥有者，形式本身不随东西变化。"
+        ],
+        [
+          "a/o/um + 名词",
+          "所有格前的定冠词使用因地区和语境有所变化，初学先认常见搭配。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Meu amigo é brasileiro.",
+          "zh": "我的男性朋友是巴西人。"
+        },
+        {
+          "pt": "Minha amiga é brasileira.",
+          "zh": "我的女性朋友是巴西人。"
+        },
+        {
+          "pt": "O livro dela.",
+          "zh": "她的书（dela 指女性拥有者）。"
+        }
+      ],
+      "trap": "“我的书”是 meu livro，不是因为“我”是男性，而是 o livro 阳性。",
+      "chant": "meu 看东西；dele 看主人。"
+    },
+    {
+      "id": "friends",
+      "group": "朋友与关系",
+      "title": "朋友、喜欢、日常安排",
+      "emoji": "☕",
+      "tag": "Lição 2",
+      "idea": "用非常短的句子表达朋友关系、喜欢做什么，以及一起做活动。",
+      "rules": [
+        [
+          "amigo / amiga",
+          "男性朋友 / 女性朋友"
+        ],
+        [
+          "gostar de",
+          "喜欢；gosto de / gosta de（注意 de）。"
+        ],
+        [
+          "precisar de",
+          "需要；preciso de。"
+        ],
+        [
+          "com",
+          "和……一起。"
+        ],
+        [
+          "juntos / juntas",
+          "一起（根据人群性别/数量配合）。"
+        ],
+        [
+          "hoje / amanhã",
+          "今天 / 明天。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Eu gosto de música.",
+          "zh": "我喜欢音乐。"
+        },
+        {
+          "pt": "Ela gosta de estudar.",
+          "zh": "她喜欢学习。"
+        },
+        {
+          "pt": "Nós estudamos juntos.",
+          "zh": "我们一起学习。"
+        }
+      ],
+      "trap": "gostar 后通常有 de，不要照英语 I like ... 直接省掉。",
+      "chant": "喜欢 = gostar de，两个词一起背。"
+    },
+    {
+      "id": "reading",
+      "group": "学习方法",
+      "title": "阅读技巧与英文同源词",
+      "emoji": "📖",
+      "tag": "读文章不怕",
+      "idea": "读句子先抓你认识的词、主语和动词，不必每个陌生词都停下来查。",
+      "rules": [
+        [
+          "cognates",
+          "英语/葡语相似且含义相近：universidade / university。"
+        ],
+        [
+          "false cognates",
+          "看似相似但意思不同：livraria / library。"
+        ],
+        [
+          "整体阅读",
+          "先猜主题 → 抓关键词 → 再查关键生词。"
+        ],
+        [
+          "不要逐字翻译",
+          "理解句意优先，借助上下文推断。"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "A universidade é grande.",
+          "zh": "这所大学很大。"
+        },
+        {
+          "pt": "A livraria fica perto daqui.",
+          "zh": "书店就在附近。"
+        }
+      ],
+      "trap": "“长得像”不一定意思一样；要记得 false cognate。",
+      "chant": "先抓大意，再啃细节。"
+    },
+    {
+      "id": "family",
+      "group": "课后加餐",
+      "title": "家庭称谓预习",
+      "emoji": "👨‍👩‍👧",
+      "tag": "Lição 4 · 预习",
+      "idea": "这一节单独标为预习，不混入已学知识的考试统计。",
+      "rules": [
+        [
+          "o pai / a mãe",
+          "爸爸 / 妈妈"
+        ],
+        [
+          "o irmão / a irmã",
+          "兄弟 / 姐妹"
+        ],
+        [
+          "o filho / a filha",
+          "儿子 / 女儿"
+        ],
+        [
+          "os pais",
+          "父母（也可指多个父亲，依语境）。"
+        ],
+        [
+          "a família",
+          "家庭"
+        ]
+      ],
+      "examples": [
+        {
+          "pt": "Minha família é grande.",
+          "zh": "我的家庭很大。"
+        },
+        {
+          "pt": "O irmão dela estuda.",
+          "zh": "她的兄弟在学习。"
+        }
+      ],
+      "trap": "os pais 常见意思是“父母”，不是“几个国家”（países）。",
+      "chant": "pai 爸，mãe 妈；irmão/irmã 兄弟姐妹。"
+    }
+  ],
+  "vocab": [
+    {
+      "word": "oi",
+      "pos": "短语",
+      "zh": "嗨",
+      "category": "问候",
+      "example": "Oi, tudo bem?"
+    },
+    {
+      "word": "olá",
+      "pos": "短语",
+      "zh": "你好",
+      "category": "问候",
+      "example": "Olá, professora!"
+    },
+    {
+      "word": "bom dia",
+      "pos": "短语",
+      "zh": "早上好",
+      "category": "问候",
+      "example": "Bom dia!"
+    },
+    {
+      "word": "boa tarde",
+      "pos": "短语",
+      "zh": "下午好",
+      "category": "问候",
+      "example": "Boa tarde!"
+    },
+    {
+      "word": "boa noite",
+      "pos": "短语",
+      "zh": "晚上好/晚安",
+      "category": "问候",
+      "example": "Boa noite!"
+    },
+    {
+      "word": "tudo bem?",
+      "pos": "短语",
+      "zh": "一切都好吗？",
+      "category": "问候",
+      "example": "Oi! Tudo bem?"
+    },
+    {
+      "word": "como vai?",
+      "pos": "短语",
+      "zh": "你近来如何？",
+      "category": "问候",
+      "example": "Como vai?"
+    },
+    {
+      "word": "até logo",
+      "pos": "短语",
+      "zh": "待会见/回头见",
+      "category": "问候",
+      "example": "Até logo!"
+    },
+    {
+      "word": "até já",
+      "pos": "短语",
+      "zh": "待会见",
+      "category": "问候",
+      "example": "Até já!"
+    },
+    {
+      "word": "tchau",
+      "pos": "短语",
+      "zh": "再见",
+      "category": "问候",
+      "example": "Tchau!"
+    },
+    {
+      "word": "obrigado",
+      "pos": "短语",
+      "zh": "谢谢（通常男性说）",
+      "category": "问候",
+      "example": "Muito obrigado!"
+    },
+    {
+      "word": "obrigada",
+      "pos": "短语",
+      "zh": "谢谢（通常女性说）",
+      "category": "问候",
+      "example": "Muito obrigada!"
+    },
+    {
+      "word": "com licença",
+      "pos": "短语",
+      "zh": "借过/打扰一下",
+      "category": "问候",
+      "example": "Com licença!"
+    },
+    {
+      "word": "desculpe",
+      "pos": "短语",
+      "zh": "抱歉",
+      "category": "问候",
+      "example": "Desculpe!"
+    },
+    {
+      "word": "boa sorte",
+      "pos": "短语",
+      "zh": "祝好运",
+      "category": "问候",
+      "example": "Boa sorte no teste!"
+    },
+    {
+      "word": "por favor",
+      "pos": "短语",
+      "zh": "请",
+      "category": "问候",
+      "example": "Um livro, por favor."
+    },
+    {
+      "word": "de nada",
+      "pos": "短语",
+      "zh": "不客气",
+      "category": "问候",
+      "example": "De nada!"
+    },
+    {
+      "word": "eu",
+      "pos": "代词",
+      "zh": "我",
+      "category": "代词",
+      "example": "Eu estudo."
+    },
+    {
+      "word": "você",
+      "pos": "代词",
+      "zh": "你",
+      "category": "代词",
+      "example": "Você estuda."
+    },
+    {
+      "word": "ele",
+      "pos": "代词",
+      "zh": "他",
+      "category": "代词",
+      "example": "Ele fala."
+    },
+    {
+      "word": "ela",
+      "pos": "代词",
+      "zh": "她",
+      "category": "代词",
+      "example": "Ela fala."
+    },
+    {
+      "word": "nós",
+      "pos": "代词",
+      "zh": "我们",
+      "category": "代词",
+      "example": "Nós estudamos."
+    },
+    {
+      "word": "vocês",
+      "pos": "代词",
+      "zh": "你们",
+      "category": "代词",
+      "example": "Vocês estudam."
+    },
+    {
+      "word": "eles",
+      "pos": "代词",
+      "zh": "他们/混合性别群体",
+      "category": "代词",
+      "example": "Eles falam."
+    },
+    {
+      "word": "elas",
+      "pos": "代词",
+      "zh": "她们",
+      "category": "代词",
+      "example": "Elas falam."
+    },
+    {
+      "word": "o senhor",
+      "pos": "代词",
+      "zh": "您（正式，男）",
+      "category": "代词",
+      "example": "Como vai o senhor?"
+    },
+    {
+      "word": "a senhora",
+      "pos": "代词",
+      "zh": "您（正式，女）",
+      "category": "代词",
+      "example": "Como vai a senhora?"
+    },
+    {
+      "word": "a universidade",
+      "pos": "名词",
+      "zh": "大学",
+      "category": "学校",
+      "example": "Eu estudo na universidade."
+    },
+    {
+      "word": "a biblioteca",
+      "pos": "名词",
+      "zh": "图书馆",
+      "category": "学校",
+      "example": "Estou na biblioteca."
+    },
+    {
+      "word": "a livraria",
+      "pos": "名词",
+      "zh": "书店",
+      "category": "学校",
+      "example": "Vou à livraria."
+    },
+    {
+      "word": "a aula",
+      "pos": "名词",
+      "zh": "课",
+      "category": "学校",
+      "example": "Tenho aula hoje."
+    },
+    {
+      "word": "o curso",
+      "pos": "名词",
+      "zh": "课程",
+      "category": "学校",
+      "example": "O curso é interessante."
+    },
+    {
+      "word": "o livro",
+      "pos": "名词",
+      "zh": "书",
+      "category": "学校",
+      "example": "O livro é novo."
+    },
+    {
+      "word": "o dicionário",
+      "pos": "名词",
+      "zh": "词典",
+      "category": "学校",
+      "example": "Preciso de um dicionário."
+    },
+    {
+      "word": "o caderno",
+      "pos": "名词",
+      "zh": "笔记本",
+      "category": "学校",
+      "example": "O caderno é meu."
+    },
+    {
+      "word": "o lápis",
+      "pos": "名词",
+      "zh": "铅笔",
+      "category": "学校",
+      "example": "Tenho um lápis."
+    },
+    {
+      "word": "a caneta",
+      "pos": "名词",
+      "zh": "钢笔/圆珠笔",
+      "category": "学校",
+      "example": "A caneta é azul."
+    },
+    {
+      "word": "o computador",
+      "pos": "名词",
+      "zh": "电脑",
+      "category": "学校",
+      "example": "O computador é novo."
+    },
+    {
+      "word": "o professor",
+      "pos": "名词",
+      "zh": "男老师",
+      "category": "学校",
+      "example": "O professor fala."
+    },
+    {
+      "word": "a professora",
+      "pos": "名词",
+      "zh": "女老师",
+      "category": "学校",
+      "example": "A professora fala."
+    },
+    {
+      "word": "o aluno",
+      "pos": "名词",
+      "zh": "男学生",
+      "category": "学校",
+      "example": "O aluno estuda."
+    },
+    {
+      "word": "a aluna",
+      "pos": "名词",
+      "zh": "女学生",
+      "category": "学校",
+      "example": "A aluna estuda."
+    },
+    {
+      "word": "a escola",
+      "pos": "名词",
+      "zh": "学校",
+      "category": "学校",
+      "example": "A escola é grande."
+    },
+    {
+      "word": "a sala de aula",
+      "pos": "名词",
+      "zh": "教室",
+      "category": "学校",
+      "example": "Estou na sala de aula."
+    },
+    {
+      "word": "o teste",
+      "pos": "名词",
+      "zh": "测验",
+      "category": "学校",
+      "example": "Tenho um teste hoje."
+    },
+    {
+      "word": "o exame",
+      "pos": "名词",
+      "zh": "考试",
+      "category": "学校",
+      "example": "O exame é amanhã."
+    },
+    {
+      "word": "a química",
+      "pos": "名词",
+      "zh": "化学",
+      "category": "学校",
+      "example": "Eu estudo química."
+    },
+    {
+      "word": "a psicologia",
+      "pos": "名词",
+      "zh": "心理学",
+      "category": "学校",
+      "example": "Tenho aula de Psicologia."
+    },
+    {
+      "word": "a matemática",
+      "pos": "名词",
+      "zh": "数学",
+      "category": "学校",
+      "example": "Eu estudo matemática."
+    },
+    {
+      "word": "a sociologia",
+      "pos": "名词",
+      "zh": "社会学",
+      "category": "学校",
+      "example": "Ela estuda Sociologia."
+    },
+    {
+      "word": "a história",
+      "pos": "名词",
+      "zh": "历史",
+      "category": "学校",
+      "example": "Eu estudo história."
+    },
+    {
+      "word": "a casa",
+      "pos": "名词",
+      "zh": "家/房子",
+      "category": "场所",
+      "example": "Estou em casa."
+    },
+    {
+      "word": "o museu",
+      "pos": "名词",
+      "zh": "博物馆",
+      "category": "场所",
+      "example": "Vou ao museu."
+    },
+    {
+      "word": "o mapa",
+      "pos": "名词",
+      "zh": "地图",
+      "category": "场所",
+      "example": "Preciso de um mapa."
+    },
+    {
+      "word": "a mesa",
+      "pos": "名词",
+      "zh": "桌子",
+      "category": "场所",
+      "example": "O livro está na mesa."
+    },
+    {
+      "word": "a praia",
+      "pos": "名词",
+      "zh": "海滩",
+      "category": "场所",
+      "example": "Vou à praia."
+    },
+    {
+      "word": "o pátio",
+      "pos": "名词",
+      "zh": "庭院",
+      "category": "场所",
+      "example": "O pátio é grande."
+    },
+    {
+      "word": "a cidade",
+      "pos": "名词",
+      "zh": "城市",
+      "category": "场所",
+      "example": "A cidade é bonita."
+    },
+    {
+      "word": "o estado",
+      "pos": "名词",
+      "zh": "州/州份",
+      "category": "场所",
+      "example": "O estado é grande."
+    },
+    {
+      "word": "o país",
+      "pos": "名词",
+      "zh": "国家",
+      "category": "场所",
+      "example": "O Brasil é um país."
+    },
+    {
+      "word": "o mês",
+      "pos": "名词",
+      "zh": "月份",
+      "category": "场所",
+      "example": "Este mês é outubro."
+    },
+    {
+      "word": "o dia",
+      "pos": "名词",
+      "zh": "日子/白天",
+      "category": "场所",
+      "example": "Bom dia!"
+    },
+    {
+      "word": "a manhã",
+      "pos": "名词",
+      "zh": "早晨",
+      "category": "场所",
+      "example": "A manhã está bonita."
+    },
+    {
+      "word": "a tarde",
+      "pos": "名词",
+      "zh": "下午",
+      "category": "场所",
+      "example": "Boa tarde!"
+    },
+    {
+      "word": "a noite",
+      "pos": "名词",
+      "zh": "夜晚",
+      "category": "场所",
+      "example": "Boa noite!"
+    },
+    {
+      "word": "ser",
+      "pos": "动词",
+      "zh": "是（身份等）",
+      "category": "动词",
+      "example": "Eu sou estudante."
+    },
+    {
+      "word": "estar",
+      "pos": "动词",
+      "zh": "处于/在",
+      "category": "动词",
+      "example": "Estou na biblioteca."
+    },
+    {
+      "word": "ter",
+      "pos": "动词",
+      "zh": "有",
+      "category": "动词",
+      "example": "Eu tenho um livro."
+    },
+    {
+      "word": "haver (há)",
+      "pos": "动词",
+      "zh": "存在/有",
+      "category": "动词",
+      "example": "Há uma biblioteca."
+    },
+    {
+      "word": "estudar",
+      "pos": "动词",
+      "zh": "学习",
+      "category": "动词",
+      "example": "Nós estudamos."
+    },
+    {
+      "word": "falar",
+      "pos": "动词",
+      "zh": "说话",
+      "category": "动词",
+      "example": "Ela fala português."
+    },
+    {
+      "word": "trabalhar",
+      "pos": "动词",
+      "zh": "工作",
+      "category": "动词",
+      "example": "Ele trabalha."
+    },
+    {
+      "word": "morar",
+      "pos": "动词",
+      "zh": "居住",
+      "category": "动词",
+      "example": "Moro no Brasil."
+    },
+    {
+      "word": "precisar de",
+      "pos": "动词",
+      "zh": "需要",
+      "category": "动词",
+      "example": "Preciso de um lápis."
+    },
+    {
+      "word": "gostar de",
+      "pos": "动词",
+      "zh": "喜欢",
+      "category": "动词",
+      "example": "Gosto de música."
+    },
+    {
+      "word": "comer",
+      "pos": "动词",
+      "zh": "吃",
+      "category": "动词",
+      "example": "Eu como pão."
+    },
+    {
+      "word": "abrir",
+      "pos": "动词",
+      "zh": "打开",
+      "category": "动词",
+      "example": "Nós abrimos o livro."
+    },
+    {
+      "word": "ir",
+      "pos": "动词",
+      "zh": "去",
+      "category": "动词",
+      "example": "Eu vou ao museu."
+    },
+    {
+      "word": "custar",
+      "pos": "动词",
+      "zh": "花费/多少钱",
+      "category": "动词",
+      "example": "Quanto custa?"
+    },
+    {
+      "word": "saber",
+      "pos": "动词",
+      "zh": "知道",
+      "category": "动词",
+      "example": "Não sei."
+    },
+    {
+      "word": "conversar",
+      "pos": "动词",
+      "zh": "交谈",
+      "category": "动词",
+      "example": "Conversamos na aula."
+    },
+    {
+      "word": "comprar",
+      "pos": "动词",
+      "zh": "买",
+      "category": "动词",
+      "example": "Compro um livro."
+    },
+    {
+      "word": "escutar",
+      "pos": "动词",
+      "zh": "听",
+      "category": "动词",
+      "example": "Eu escuto música."
+    },
+    {
+      "word": "visitar",
+      "pos": "动词",
+      "zh": "参观/拜访",
+      "category": "动词",
+      "example": "Visito um museu."
+    },
+    {
+      "word": "o Brasil",
+      "pos": "地名",
+      "zh": "巴西",
+      "category": "国家",
+      "example": "Moro no Brasil."
+    },
+    {
+      "word": "a China",
+      "pos": "地名",
+      "zh": "中国",
+      "category": "国家",
+      "example": "Sou da China."
+    },
+    {
+      "word": "Portugal",
+      "pos": "地名",
+      "zh": "葡萄牙",
+      "category": "国家",
+      "example": "Sou de Portugal."
+    },
+    {
+      "word": "os Estados Unidos",
+      "pos": "地名",
+      "zh": "美国",
+      "category": "国家",
+      "example": "Moro nos Estados Unidos."
+    },
+    {
+      "word": "o Japão",
+      "pos": "地名",
+      "zh": "日本",
+      "category": "国家",
+      "example": "Sou do Japão."
+    },
+    {
+      "word": "a Alemanha",
+      "pos": "地名",
+      "zh": "德国",
+      "category": "国家",
+      "example": "Sou da Alemanha."
+    },
+    {
+      "word": "a Angola / Angola",
+      "pos": "地名",
+      "zh": "安哥拉（用法有变化）",
+      "category": "国家",
+      "example": "Angola fica na África."
+    },
+    {
+      "word": "Moçambique",
+      "pos": "地名",
+      "zh": "莫桑比克",
+      "category": "国家",
+      "example": "Moçambique fica na África."
+    },
+    {
+      "word": "Cabo Verde",
+      "pos": "地名",
+      "zh": "佛得角",
+      "category": "国家",
+      "example": "Cabo Verde fica na África."
+    },
+    {
+      "word": "a Guiné-Bissau",
+      "pos": "地名",
+      "zh": "几内亚比绍",
+      "category": "国家",
+      "example": "A Guiné-Bissau fica na África."
+    },
+    {
+      "word": "São Tomé e Príncipe",
+      "pos": "地名",
+      "zh": "圣多美和普林西比",
+      "category": "国家",
+      "example": "São Tomé e Príncipe fica na África."
+    },
+    {
+      "word": "a Guiné Equatorial",
+      "pos": "地名",
+      "zh": "赤道几内亚",
+      "category": "国家",
+      "example": "A Guiné Equatorial fica na África."
+    },
+    {
+      "word": "Timor-Leste",
+      "pos": "地名",
+      "zh": "东帝汶",
+      "category": "国家",
+      "example": "Timor-Leste fica na Ásia."
+    },
+    {
+      "word": "brasileiro / brasileira",
+      "pos": "形容词",
+      "zh": "巴西人/巴西的",
+      "category": "国籍",
+      "example": "Ela é brasileira."
+    },
+    {
+      "word": "chinês / chinesa",
+      "pos": "形容词",
+      "zh": "中国人/中国的",
+      "category": "国籍",
+      "example": "Ela é chinesa."
+    },
+    {
+      "word": "português / portuguesa",
+      "pos": "形容词",
+      "zh": "葡萄牙人/葡萄牙的",
+      "category": "国籍",
+      "example": "Ela é portuguesa."
+    },
+    {
+      "word": "americano / americana",
+      "pos": "形容词",
+      "zh": "美国人/美国的",
+      "category": "国籍",
+      "example": "Ela é americana."
+    },
+    {
+      "word": "japonês / japonesa",
+      "pos": "形容词",
+      "zh": "日本人/日本的",
+      "category": "国籍",
+      "example": "Ela é japonesa."
+    },
+    {
+      "word": "alemão / alemã",
+      "pos": "形容词",
+      "zh": "德国人/德国的",
+      "category": "国籍",
+      "example": "Ela é alemã."
+    },
+    {
+      "word": "português",
+      "pos": "形容词",
+      "zh": "葡萄牙语",
+      "category": "国籍",
+      "example": "Eu falo português."
+    },
+    {
+      "word": "o amigo",
+      "pos": "名词",
+      "zh": "男性朋友",
+      "category": "朋友",
+      "example": "Meu amigo estuda."
+    },
+    {
+      "word": "a amiga",
+      "pos": "名词",
+      "zh": "女性朋友",
+      "category": "朋友",
+      "example": "Minha amiga estuda."
+    },
+    {
+      "word": "a música",
+      "pos": "名词",
+      "zh": "音乐",
+      "category": "朋友",
+      "example": "Gosto de música."
+    },
+    {
+      "word": "o colega",
+      "pos": "名词",
+      "zh": "男性同学/同事",
+      "category": "朋友",
+      "example": "Meu colega estuda."
+    },
+    {
+      "word": "a colega",
+      "pos": "名词",
+      "zh": "女性同学/同事",
+      "category": "朋友",
+      "example": "Minha colega estuda."
+    },
+    {
+      "word": "a família",
+      "pos": "名词",
+      "zh": "家庭",
+      "category": "朋友",
+      "example": "Minha família é grande."
+    },
+    {
+      "word": "o pai",
+      "pos": "名词",
+      "zh": "父亲",
+      "category": "朋友",
+      "example": "Meu pai trabalha."
+    },
+    {
+      "word": "a mãe",
+      "pos": "名词",
+      "zh": "母亲",
+      "category": "朋友",
+      "example": "Minha mãe fala português."
+    },
+    {
+      "word": "o irmão",
+      "pos": "名词",
+      "zh": "兄弟",
+      "category": "朋友",
+      "example": "Meu irmão estuda."
+    },
+    {
+      "word": "a irmã",
+      "pos": "名词",
+      "zh": "姐妹",
+      "category": "朋友",
+      "example": "Minha irmã estuda."
+    },
+    {
+      "word": "o filho",
+      "pos": "名词",
+      "zh": "儿子",
+      "category": "朋友",
+      "example": "O filho dela estuda."
+    },
+    {
+      "word": "a filha",
+      "pos": "名词",
+      "zh": "女儿",
+      "category": "朋友",
+      "example": "A filha dele estuda."
+    },
+    {
+      "word": "os pais",
+      "pos": "名词",
+      "zh": "父母",
+      "category": "朋友",
+      "example": "Meus pais trabalham."
+    },
+    {
+      "word": "em",
+      "pos": "词/短语",
+      "zh": "在……",
+      "category": "常用小词",
+      "example": "Moro em Portugal."
+    },
+    {
+      "word": "de",
+      "pos": "词/短语",
+      "zh": "来自/属于/关于",
+      "category": "常用小词",
+      "example": "Sou de Portugal."
+    },
+    {
+      "word": "no",
+      "pos": "词/短语",
+      "zh": "em + o",
+      "category": "常用小词",
+      "example": "Estou no museu."
+    },
+    {
+      "word": "na",
+      "pos": "词/短语",
+      "zh": "em + a",
+      "category": "常用小词",
+      "example": "Estou na aula."
+    },
+    {
+      "word": "nos",
+      "pos": "词/短语",
+      "zh": "em + os",
+      "category": "常用小词",
+      "example": "Nos Estados Unidos."
+    },
+    {
+      "word": "nas",
+      "pos": "词/短语",
+      "zh": "em + as",
+      "category": "常用小词",
+      "example": "Nas aulas."
+    },
+    {
+      "word": "do",
+      "pos": "词/短语",
+      "zh": "de + o",
+      "category": "常用小词",
+      "example": "Sou do Brasil."
+    },
+    {
+      "word": "da",
+      "pos": "词/短语",
+      "zh": "de + a",
+      "category": "常用小词",
+      "example": "Sou da China."
+    },
+    {
+      "word": "ao",
+      "pos": "词/短语",
+      "zh": "a + o",
+      "category": "常用小词",
+      "example": "Vou ao museu."
+    },
+    {
+      "word": "à",
+      "pos": "词/短语",
+      "zh": "a + a",
+      "category": "常用小词",
+      "example": "Vou à biblioteca."
+    },
+    {
+      "word": "com",
+      "pos": "词/短语",
+      "zh": "和/与",
+      "category": "常用小词",
+      "example": "Estou com ela."
+    },
+    {
+      "word": "e",
+      "pos": "词/短语",
+      "zh": "和/并且",
+      "category": "常用小词",
+      "example": "Ana e eu."
+    },
+    {
+      "word": "não",
+      "pos": "词/短语",
+      "zh": "不",
+      "category": "常用小词",
+      "example": "Não sei."
+    },
+    {
+      "word": "sim",
+      "pos": "词/短语",
+      "zh": "是/对",
+      "category": "常用小词",
+      "example": "Sim!"
+    },
+    {
+      "word": "hoje",
+      "pos": "词/短语",
+      "zh": "今天",
+      "category": "常用小词",
+      "example": "Hoje tenho aula."
+    },
+    {
+      "word": "amanhã",
+      "pos": "词/短语",
+      "zh": "明天",
+      "category": "常用小词",
+      "example": "Amanhã estudo."
+    },
+    {
+      "word": "ontem",
+      "pos": "词/短语",
+      "zh": "昨天",
+      "category": "常用小词",
+      "example": "Ontem foi sábado."
+    },
+    {
+      "word": "aqui",
+      "pos": "词/短语",
+      "zh": "这里",
+      "category": "常用小词",
+      "example": "Estou aqui."
+    },
+    {
+      "word": "lá",
+      "pos": "词/短语",
+      "zh": "那里",
+      "category": "常用小词",
+      "example": "Ela está lá."
+    },
+    {
+      "word": "sempre",
+      "pos": "词/短语",
+      "zh": "总是",
+      "category": "常用小词",
+      "example": "Eu sempre estudo."
+    },
+    {
+      "word": "todos os dias",
+      "pos": "词/短语",
+      "zh": "每天",
+      "category": "常用小词",
+      "example": "Estudo todos os dias."
+    },
+    {
+      "word": "perto de",
+      "pos": "词/短语",
+      "zh": "在……附近",
+      "category": "常用小词",
+      "example": "Moro perto da escola."
+    },
+    {
+      "word": "ao lado de",
+      "pos": "词/短语",
+      "zh": "在……旁边",
+      "category": "常用小词",
+      "example": "A mesa está ao lado da porta."
+    },
+    {
+      "word": "atrás de",
+      "pos": "词/短语",
+      "zh": "在……后面",
+      "category": "常用小词",
+      "example": "Estou atrás da escola."
+    },
+    {
+      "word": "entre",
+      "pos": "词/短语",
+      "zh": "在……之间",
+      "category": "常用小词",
+      "example": "Entre dois livros."
+    },
+    {
+      "word": "meu / minha",
+      "pos": "词/短语",
+      "zh": "我的（单数）",
+      "category": "常用小词",
+      "example": "Meu livro; minha aula."
+    },
+    {
+      "word": "meus / minhas",
+      "pos": "词/短语",
+      "zh": "我的（复数）",
+      "category": "常用小词",
+      "example": "Meus livros; minhas aulas."
+    },
+    {
+      "word": "seu / sua",
+      "pos": "词/短语",
+      "zh": "你的/他她的（单数）",
+      "category": "常用小词",
+      "example": "Seu livro; sua aula."
+    },
+    {
+      "word": "nosso / nossa",
+      "pos": "词/短语",
+      "zh": "我们的（单数）",
+      "category": "常用小词",
+      "example": "Nosso livro; nossa aula."
+    },
+    {
+      "word": "dele",
+      "pos": "词/短语",
+      "zh": "他的",
+      "category": "常用小词",
+      "example": "O livro dele."
+    },
+    {
+      "word": "dela",
+      "pos": "词/短语",
+      "zh": "她的",
+      "category": "常用小词",
+      "example": "O livro dela."
+    },
+    {
+      "word": "quem",
+      "pos": "疑问词",
+      "zh": "谁",
+      "category": "提问",
+      "example": "Quem é ela?"
+    },
+    {
+      "word": "onde",
+      "pos": "疑问词",
+      "zh": "哪里",
+      "category": "提问",
+      "example": "Onde você mora?"
+    },
+    {
+      "word": "quando",
+      "pos": "疑问词",
+      "zh": "何时",
+      "category": "提问",
+      "example": "Quando você tem aula?"
+    },
+    {
+      "word": "como",
+      "pos": "疑问词",
+      "zh": "怎么样",
+      "category": "提问",
+      "example": "Como vai?"
+    },
+    {
+      "word": "por que",
+      "pos": "疑问词",
+      "zh": "为什么",
+      "category": "提问",
+      "example": "Por que você estuda?"
+    },
+    {
+      "word": "quanto / quanta",
+      "pos": "疑问词",
+      "zh": "多少（单数）",
+      "category": "提问",
+      "example": "Quanto custa?"
+    },
+    {
+      "word": "quantos / quantas",
+      "pos": "疑问词",
+      "zh": "多少（复数）",
+      "category": "提问",
+      "example": "Quantas aulas?"
+    },
+    {
+      "word": "o que",
+      "pos": "疑问词",
+      "zh": "什么",
+      "category": "提问",
+      "example": "O que você estuda?"
+    },
+    {
+      "word": "zero",
+      "pos": "数字",
+      "zh": "0（数字）",
+      "category": "数字 0–99",
+      "example": "zero reais"
+    },
+    {
+      "word": "um",
+      "pos": "数字",
+      "zh": "1（数量词；1、2 修饰名词时可能有阴性形式）",
+      "category": "数字 0–99",
+      "example": "um livro"
+    },
+    {
+      "word": "dois",
+      "pos": "数字",
+      "zh": "2（数量词；1、2 修饰名词时可能有阴性形式）",
+      "category": "数字 0–99",
+      "example": "duas aulas"
+    },
+    {
+      "word": "três",
+      "pos": "数字",
+      "zh": "3（数字）",
+      "category": "数字 0–99",
+      "example": "três reais"
+    },
+    {
+      "word": "quatro",
+      "pos": "数字",
+      "zh": "4（数字）",
+      "category": "数字 0–99",
+      "example": "quatro reais"
+    },
+    {
+      "word": "cinco",
+      "pos": "数字",
+      "zh": "5（数字）",
+      "category": "数字 0–99",
+      "example": "cinco reais"
+    },
+    {
+      "word": "seis",
+      "pos": "数字",
+      "zh": "6（数字）",
+      "category": "数字 0–99",
+      "example": "seis reais"
+    },
+    {
+      "word": "sete",
+      "pos": "数字",
+      "zh": "7（数字）",
+      "category": "数字 0–99",
+      "example": "sete reais"
+    },
+    {
+      "word": "oito",
+      "pos": "数字",
+      "zh": "8（数字）",
+      "category": "数字 0–99",
+      "example": "oito reais"
+    },
+    {
+      "word": "nove",
+      "pos": "数字",
+      "zh": "9（数字）",
+      "category": "数字 0–99",
+      "example": "nove reais"
+    },
+    {
+      "word": "dez",
+      "pos": "数字",
+      "zh": "10（数字）",
+      "category": "数字 0–99",
+      "example": "dez reais"
+    },
+    {
+      "word": "onze",
+      "pos": "数字",
+      "zh": "11（数字）",
+      "category": "数字 0–99",
+      "example": "onze reais"
+    },
+    {
+      "word": "doze",
+      "pos": "数字",
+      "zh": "12（数字）",
+      "category": "数字 0–99",
+      "example": "doze reais"
+    },
+    {
+      "word": "treze",
+      "pos": "数字",
+      "zh": "13（数字）",
+      "category": "数字 0–99",
+      "example": "treze reais"
+    },
+    {
+      "word": "catorze",
+      "pos": "数字",
+      "zh": "14（数字）",
+      "category": "数字 0–99",
+      "example": "catorze reais"
+    },
+    {
+      "word": "quinze",
+      "pos": "数字",
+      "zh": "15（数字）",
+      "category": "数字 0–99",
+      "example": "quinze reais"
+    },
+    {
+      "word": "dezesseis",
+      "pos": "数字",
+      "zh": "16（数字）",
+      "category": "数字 0–99",
+      "example": "dezesseis reais"
+    },
+    {
+      "word": "dezessete",
+      "pos": "数字",
+      "zh": "17（数字）",
+      "category": "数字 0–99",
+      "example": "dezessete reais"
+    },
+    {
+      "word": "dezoito",
+      "pos": "数字",
+      "zh": "18（数字）",
+      "category": "数字 0–99",
+      "example": "dezoito reais"
+    },
+    {
+      "word": "dezenove",
+      "pos": "数字",
+      "zh": "19（数字）",
+      "category": "数字 0–99",
+      "example": "dezenove reais"
+    },
+    {
+      "word": "vinte",
+      "pos": "数字",
+      "zh": "20（数字）",
+      "category": "数字 0–99",
+      "example": "vinte reais"
+    },
+    {
+      "word": "vinte e um",
+      "pos": "数字",
+      "zh": "21（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e um reais"
+    },
+    {
+      "word": "vinte e dois",
+      "pos": "数字",
+      "zh": "22（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e dois reais"
+    },
+    {
+      "word": "vinte e três",
+      "pos": "数字",
+      "zh": "23（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e três reais"
+    },
+    {
+      "word": "vinte e quatro",
+      "pos": "数字",
+      "zh": "24（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e quatro reais"
+    },
+    {
+      "word": "vinte e cinco",
+      "pos": "数字",
+      "zh": "25（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e cinco reais"
+    },
+    {
+      "word": "vinte e seis",
+      "pos": "数字",
+      "zh": "26（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e seis reais"
+    },
+    {
+      "word": "vinte e sete",
+      "pos": "数字",
+      "zh": "27（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e sete reais"
+    },
+    {
+      "word": "vinte e oito",
+      "pos": "数字",
+      "zh": "28（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e oito reais"
+    },
+    {
+      "word": "vinte e nove",
+      "pos": "数字",
+      "zh": "29（数字）",
+      "category": "数字 0–99",
+      "example": "vinte e nove reais"
+    },
+    {
+      "word": "trinta",
+      "pos": "数字",
+      "zh": "30（数字）",
+      "category": "数字 0–99",
+      "example": "trinta reais"
+    },
+    {
+      "word": "trinta e um",
+      "pos": "数字",
+      "zh": "31（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e um reais"
+    },
+    {
+      "word": "trinta e dois",
+      "pos": "数字",
+      "zh": "32（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e dois reais"
+    },
+    {
+      "word": "trinta e três",
+      "pos": "数字",
+      "zh": "33（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e três reais"
+    },
+    {
+      "word": "trinta e quatro",
+      "pos": "数字",
+      "zh": "34（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e quatro reais"
+    },
+    {
+      "word": "trinta e cinco",
+      "pos": "数字",
+      "zh": "35（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e cinco reais"
+    },
+    {
+      "word": "trinta e seis",
+      "pos": "数字",
+      "zh": "36（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e seis reais"
+    },
+    {
+      "word": "trinta e sete",
+      "pos": "数字",
+      "zh": "37（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e sete reais"
+    },
+    {
+      "word": "trinta e oito",
+      "pos": "数字",
+      "zh": "38（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e oito reais"
+    },
+    {
+      "word": "trinta e nove",
+      "pos": "数字",
+      "zh": "39（数字）",
+      "category": "数字 0–99",
+      "example": "trinta e nove reais"
+    },
+    {
+      "word": "quarenta",
+      "pos": "数字",
+      "zh": "40（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta reais"
+    },
+    {
+      "word": "quarenta e um",
+      "pos": "数字",
+      "zh": "41（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e um reais"
+    },
+    {
+      "word": "quarenta e dois",
+      "pos": "数字",
+      "zh": "42（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e dois reais"
+    },
+    {
+      "word": "quarenta e três",
+      "pos": "数字",
+      "zh": "43（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e três reais"
+    },
+    {
+      "word": "quarenta e quatro",
+      "pos": "数字",
+      "zh": "44（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e quatro reais"
+    },
+    {
+      "word": "quarenta e cinco",
+      "pos": "数字",
+      "zh": "45（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e cinco reais"
+    },
+    {
+      "word": "quarenta e seis",
+      "pos": "数字",
+      "zh": "46（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e seis reais"
+    },
+    {
+      "word": "quarenta e sete",
+      "pos": "数字",
+      "zh": "47（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e sete reais"
+    },
+    {
+      "word": "quarenta e oito",
+      "pos": "数字",
+      "zh": "48（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e oito reais"
+    },
+    {
+      "word": "quarenta e nove",
+      "pos": "数字",
+      "zh": "49（数字）",
+      "category": "数字 0–99",
+      "example": "quarenta e nove reais"
+    },
+    {
+      "word": "cinquenta",
+      "pos": "数字",
+      "zh": "50（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta reais"
+    },
+    {
+      "word": "cinquenta e um",
+      "pos": "数字",
+      "zh": "51（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e um reais"
+    },
+    {
+      "word": "cinquenta e dois",
+      "pos": "数字",
+      "zh": "52（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e dois reais"
+    },
+    {
+      "word": "cinquenta e três",
+      "pos": "数字",
+      "zh": "53（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e três reais"
+    },
+    {
+      "word": "cinquenta e quatro",
+      "pos": "数字",
+      "zh": "54（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e quatro reais"
+    },
+    {
+      "word": "cinquenta e cinco",
+      "pos": "数字",
+      "zh": "55（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e cinco reais"
+    },
+    {
+      "word": "cinquenta e seis",
+      "pos": "数字",
+      "zh": "56（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e seis reais"
+    },
+    {
+      "word": "cinquenta e sete",
+      "pos": "数字",
+      "zh": "57（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e sete reais"
+    },
+    {
+      "word": "cinquenta e oito",
+      "pos": "数字",
+      "zh": "58（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e oito reais"
+    },
+    {
+      "word": "cinquenta e nove",
+      "pos": "数字",
+      "zh": "59（数字）",
+      "category": "数字 0–99",
+      "example": "cinquenta e nove reais"
+    },
+    {
+      "word": "sessenta",
+      "pos": "数字",
+      "zh": "60（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta reais"
+    },
+    {
+      "word": "sessenta e um",
+      "pos": "数字",
+      "zh": "61（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e um reais"
+    },
+    {
+      "word": "sessenta e dois",
+      "pos": "数字",
+      "zh": "62（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e dois reais"
+    },
+    {
+      "word": "sessenta e três",
+      "pos": "数字",
+      "zh": "63（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e três reais"
+    },
+    {
+      "word": "sessenta e quatro",
+      "pos": "数字",
+      "zh": "64（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e quatro reais"
+    },
+    {
+      "word": "sessenta e cinco",
+      "pos": "数字",
+      "zh": "65（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e cinco reais"
+    },
+    {
+      "word": "sessenta e seis",
+      "pos": "数字",
+      "zh": "66（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e seis reais"
+    },
+    {
+      "word": "sessenta e sete",
+      "pos": "数字",
+      "zh": "67（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e sete reais"
+    },
+    {
+      "word": "sessenta e oito",
+      "pos": "数字",
+      "zh": "68（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e oito reais"
+    },
+    {
+      "word": "sessenta e nove",
+      "pos": "数字",
+      "zh": "69（数字）",
+      "category": "数字 0–99",
+      "example": "sessenta e nove reais"
+    },
+    {
+      "word": "setenta",
+      "pos": "数字",
+      "zh": "70（数字）",
+      "category": "数字 0–99",
+      "example": "setenta reais"
+    },
+    {
+      "word": "setenta e um",
+      "pos": "数字",
+      "zh": "71（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e um reais"
+    },
+    {
+      "word": "setenta e dois",
+      "pos": "数字",
+      "zh": "72（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e dois reais"
+    },
+    {
+      "word": "setenta e três",
+      "pos": "数字",
+      "zh": "73（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e três reais"
+    },
+    {
+      "word": "setenta e quatro",
+      "pos": "数字",
+      "zh": "74（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e quatro reais"
+    },
+    {
+      "word": "setenta e cinco",
+      "pos": "数字",
+      "zh": "75（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e cinco reais"
+    },
+    {
+      "word": "setenta e seis",
+      "pos": "数字",
+      "zh": "76（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e seis reais"
+    },
+    {
+      "word": "setenta e sete",
+      "pos": "数字",
+      "zh": "77（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e sete reais"
+    },
+    {
+      "word": "setenta e oito",
+      "pos": "数字",
+      "zh": "78（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e oito reais"
+    },
+    {
+      "word": "setenta e nove",
+      "pos": "数字",
+      "zh": "79（数字）",
+      "category": "数字 0–99",
+      "example": "setenta e nove reais"
+    },
+    {
+      "word": "oitenta",
+      "pos": "数字",
+      "zh": "80（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta reais"
+    },
+    {
+      "word": "oitenta e um",
+      "pos": "数字",
+      "zh": "81（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e um reais"
+    },
+    {
+      "word": "oitenta e dois",
+      "pos": "数字",
+      "zh": "82（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e dois reais"
+    },
+    {
+      "word": "oitenta e três",
+      "pos": "数字",
+      "zh": "83（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e três reais"
+    },
+    {
+      "word": "oitenta e quatro",
+      "pos": "数字",
+      "zh": "84（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e quatro reais"
+    },
+    {
+      "word": "oitenta e cinco",
+      "pos": "数字",
+      "zh": "85（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e cinco reais"
+    },
+    {
+      "word": "oitenta e seis",
+      "pos": "数字",
+      "zh": "86（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e seis reais"
+    },
+    {
+      "word": "oitenta e sete",
+      "pos": "数字",
+      "zh": "87（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e sete reais"
+    },
+    {
+      "word": "oitenta e oito",
+      "pos": "数字",
+      "zh": "88（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e oito reais"
+    },
+    {
+      "word": "oitenta e nove",
+      "pos": "数字",
+      "zh": "89（数字）",
+      "category": "数字 0–99",
+      "example": "oitenta e nove reais"
+    },
+    {
+      "word": "noventa",
+      "pos": "数字",
+      "zh": "90（数字）",
+      "category": "数字 0–99",
+      "example": "noventa reais"
+    },
+    {
+      "word": "noventa e um",
+      "pos": "数字",
+      "zh": "91（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e um reais"
+    },
+    {
+      "word": "noventa e dois",
+      "pos": "数字",
+      "zh": "92（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e dois reais"
+    },
+    {
+      "word": "noventa e três",
+      "pos": "数字",
+      "zh": "93（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e três reais"
+    },
+    {
+      "word": "noventa e quatro",
+      "pos": "数字",
+      "zh": "94（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e quatro reais"
+    },
+    {
+      "word": "noventa e cinco",
+      "pos": "数字",
+      "zh": "95（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e cinco reais"
+    },
+    {
+      "word": "noventa e seis",
+      "pos": "数字",
+      "zh": "96（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e seis reais"
+    },
+    {
+      "word": "noventa e sete",
+      "pos": "数字",
+      "zh": "97（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e sete reais"
+    },
+    {
+      "word": "noventa e oito",
+      "pos": "数字",
+      "zh": "98（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e oito reais"
+    },
+    {
+      "word": "noventa e nove",
+      "pos": "数字",
+      "zh": "99（数字）",
+      "category": "数字 0–99",
+      "example": "noventa e nove reais"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "lesson": "sounds",
+      "prompt": "amanhã 里的 ã 提示什么？",
+      "options": [
+        "鼻化音",
+        "一定是复数",
+        "名词阳性",
+        "过去时"
+      ],
+      "answer": "鼻化音",
+      "why": "ã 有波浪符，通常表示鼻化音。"
+    },
+    {
+      "id": "q2",
+      "lesson": "sounds",
+      "prompt": "você 的重音符号在什么字母上？",
+      "options": [
+        "ê",
+        "v",
+        "o",
+        "c"
+      ],
+      "answer": "ê",
+      "why": "você 的 ê 有尖帽重音符号。"
+    },
+    {
+      "id": "q3",
+      "lesson": "sounds",
+      "prompt": "下列哪个词含有 ç？",
+      "options": [
+        "coração",
+        "amanhã",
+        "você",
+        "até"
+      ],
+      "answer": "coração",
+      "why": "coração 的 ç 发接近 /s/。"
+    },
+    {
+      "id": "q4",
+      "lesson": "greetings",
+      "prompt": "下午见到老师，说什么？",
+      "options": [
+        "Boa tarde!",
+        "Bom tarde!",
+        "Boa dia!",
+        "Bom noite!"
+      ],
+      "answer": "Boa tarde!",
+      "why": "tarde 是阴性，使用 boa。"
+    },
+    {
+      "id": "q5",
+      "lesson": "greetings",
+      "prompt": "女性说“谢谢”，通常用：",
+      "options": [
+        "Obrigada",
+        "Obrigado",
+        "Obrigados",
+        "Obrigadar"
+      ],
+      "answer": "Obrigada",
+      "why": "obrigada 通常与女性说话人的性别配合。"
+    },
+    {
+      "id": "q6",
+      "lesson": "greetings",
+      "prompt": "借过/打扰别人，用哪个？",
+      "options": [
+        "Com licença.",
+        "Boa sorte.",
+        "Até logo.",
+        "Não sei."
+      ],
+      "answer": "Com licença.",
+      "why": "Com licença 用于礼貌地借过、打扰。"
+    },
+    {
+      "id": "q7",
+      "lesson": "greetings",
+      "prompt": "“祝你考试好运！”的表达：",
+      "options": [
+        "Boa sorte!",
+        "Boa noite!",
+        "Com licença!",
+        "Tchau!"
+      ],
+      "answer": "Boa sorte!",
+      "why": "boa sorte = 好运。"
+    },
+    {
+      "id": "q8",
+      "lesson": "pronouns",
+      "prompt": "“Ana 和我”的动词用哪一组？",
+      "options": [
+        "nós",
+        "eles",
+        "ela",
+        "você"
+      ],
+      "answer": "nós",
+      "why": "有 eu 参与就是“我们” nós。"
+    },
+    {
+      "id": "q9",
+      "lesson": "pronouns",
+      "prompt": "“Ana 和 Bruno”对应哪一人称？",
+      "options": [
+        "eles",
+        "nós",
+        "ela",
+        "eu"
+      ],
+      "answer": "eles",
+      "why": "两个人（混合性别）对应 eles。"
+    },
+    {
+      "id": "q10",
+      "lesson": "pronouns",
+      "prompt": "você 通常搭配什么人称的动词形式？",
+      "options": [
+        "第三人称单数",
+        "第一人称单数",
+        "第一人称复数",
+        "第三人称复数"
+      ],
+      "answer": "第三人称单数",
+      "why": "Você estuda；不是 você estudo。"
+    },
+    {
+      "id": "q11",
+      "lesson": "pronouns",
+      "prompt": "与年长/正式对象礼貌说“您”（女性）可用：",
+      "options": [
+        "a senhora",
+        "eu",
+        "elas",
+        "nós"
+      ],
+      "answer": "a senhora",
+      "why": "a senhora 较正式，搭配第三人称单数。"
+    },
+    {
+      "id": "q12",
+      "lesson": "ser",
+      "prompt": "Eu ___ estudante.",
+      "options": [
+        "sou",
+        "é",
+        "somos",
+        "são"
+      ],
+      "answer": "sou",
+      "why": "eu → sou。"
+    },
+    {
+      "id": "q13",
+      "lesson": "ser",
+      "prompt": "Ela ___ brasileira.",
+      "options": [
+        "é",
+        "sou",
+        "somos",
+        "são"
+      ],
+      "answer": "é",
+      "why": "ela → é。"
+    },
+    {
+      "id": "q14",
+      "lesson": "ser",
+      "prompt": "Nós ___ amigos.",
+      "options": [
+        "somos",
+        "sou",
+        "é",
+        "são"
+      ],
+      "answer": "somos",
+      "why": "nós → somos。"
+    },
+    {
+      "id": "q15",
+      "lesson": "ser",
+      "prompt": "Eles ___ professores.",
+      "options": [
+        "são",
+        "somos",
+        "é",
+        "sou"
+      ],
+      "answer": "são",
+      "why": "eles → são。"
+    },
+    {
+      "id": "q16",
+      "lesson": "articles",
+      "prompt": "___ livro（这本书）",
+      "options": [
+        "o",
+        "a",
+        "os",
+        "as"
+      ],
+      "answer": "o",
+      "why": "o livro 是阳性单数。"
+    },
+    {
+      "id": "q17",
+      "lesson": "articles",
+      "prompt": "___ aulas（这些课）",
+      "options": [
+        "as",
+        "o",
+        "a",
+        "os"
+      ],
+      "answer": "as",
+      "why": "a aula 阴性；复数 as aulas。"
+    },
+    {
+      "id": "q18",
+      "lesson": "articles",
+      "prompt": "___ professora（一位老师）",
+      "options": [
+        "uma",
+        "um",
+        "o",
+        "uns"
+      ],
+      "answer": "uma",
+      "why": "a professora 阴性单数；不定冠词 uma。"
+    },
+    {
+      "id": "q19",
+      "lesson": "articles",
+      "prompt": "___ livros（这些书）",
+      "options": [
+        "os",
+        "o",
+        "as",
+        "a"
+      ],
+      "answer": "os",
+      "why": "o livro 的复数是 os livros。"
+    },
+    {
+      "id": "q20",
+      "lesson": "gender",
+      "prompt": "“电脑”的正确搭配是：",
+      "options": [
+        "o computador",
+        "a computador",
+        "o computadora",
+        "as computador"
+      ],
+      "answer": "o computador",
+      "why": "computador 是阳性。"
+    },
+    {
+      "id": "q21",
+      "lesson": "gender",
+      "prompt": "“月”的正确搭配是：",
+      "options": [
+        "o mês",
+        "a mês",
+        "a mesa",
+        "os mê"
+      ],
+      "answer": "o mês",
+      "why": "mês 阳性单数。"
+    },
+    {
+      "id": "q22",
+      "lesson": "gender",
+      "prompt": "哪一个是阳性例外（虽然以 -a 结尾）？",
+      "options": [
+        "o dia",
+        "a casa",
+        "a aula",
+        "a escola"
+      ],
+      "answer": "o dia",
+      "why": "dia 是阳性，不要只看字尾。"
+    },
+    {
+      "id": "q23",
+      "lesson": "gender",
+      "prompt": "“这些大学”的表达：",
+      "options": [
+        "as universidades",
+        "os universidades",
+        "a universidades",
+        "as universidade"
+      ],
+      "answer": "as universidades",
+      "why": "a universidade → as universidades。"
+    },
+    {
+      "id": "q24",
+      "lesson": "classroom",
+      "prompt": "图书馆是什么？",
+      "options": [
+        "a biblioteca",
+        "a livraria",
+        "a praia",
+        "a mesa"
+      ],
+      "answer": "a biblioteca",
+      "why": "biblioteca = 图书馆；livraria = 书店。"
+    },
+    {
+      "id": "q25",
+      "lesson": "classroom",
+      "prompt": "书店是什么？",
+      "options": [
+        "a livraria",
+        "a biblioteca",
+        "a universidade",
+        "a aula"
+      ],
+      "answer": "a livraria",
+      "why": "livraria 是书店，最经典的假同源词。"
+    },
+    {
+      "id": "q26",
+      "lesson": "classroom",
+      "prompt": "“我有化学课”怎么说？",
+      "options": [
+        "Tenho aula de Química.",
+        "Tenho aula em Química.",
+        "Sou aula de Química.",
+        "Estou aula de Química."
+      ],
+      "answer": "Tenho aula de Química.",
+      "why": "aula de + 学科；我有课用 tenho。"
+    },
+    {
+      "id": "q27",
+      "lesson": "numbers",
+      "prompt": "23 怎么说？",
+      "options": [
+        "vinte e três",
+        "vinte três",
+        "trinta e dois",
+        "dois e três"
+      ],
+      "answer": "vinte e três",
+      "why": "十位 + e + 个位。"
+    },
+    {
+      "id": "q28",
+      "lesson": "numbers",
+      "prompt": "34 怎么说？",
+      "options": [
+        "trinta e quatro",
+        "quarenta e três",
+        "trinta quatro",
+        "treze e quatro"
+      ],
+      "answer": "trinta e quatro",
+      "why": "trinta + e + quatro。"
+    },
+    {
+      "id": "q29",
+      "lesson": "numbers",
+      "prompt": "80 的葡语是？",
+      "options": [
+        "oitenta",
+        "setenta",
+        "noventa",
+        "dezoito"
+      ],
+      "answer": "oitenta",
+      "why": "oitenta = 80；oitO 有助联想 8。"
+    },
+    {
+      "id": "q30",
+      "lesson": "numbers",
+      "prompt": "“两位女学生”怎么说？",
+      "options": [
+        "duas alunas",
+        "dois alunas",
+        "duas alunos",
+        "dois aluna"
+      ],
+      "answer": "duas alunas",
+      "why": "dois/duas 会因后面的名词性别改变。"
+    },
+    {
+      "id": "q31",
+      "lesson": "locations",
+      "prompt": "Eu estudo ___ biblioteca.",
+      "options": [
+        "na",
+        "no",
+        "do",
+        "da"
+      ],
+      "answer": "na",
+      "why": "em + a biblioteca → na biblioteca；与 eu 无关。"
+    },
+    {
+      "id": "q32",
+      "lesson": "locations",
+      "prompt": "Eu moro ___ Brasil.",
+      "options": [
+        "no",
+        "na",
+        "do",
+        "em o"
+      ],
+      "answer": "no",
+      "why": "em + o Brasil → no Brasil。"
+    },
+    {
+      "id": "q33",
+      "lesson": "locations",
+      "prompt": "O livro ___ professor.",
+      "options": [
+        "do",
+        "no",
+        "na",
+        "da"
+      ],
+      "answer": "do",
+      "why": "de + o professor → do professor（老师的书）。"
+    },
+    {
+      "id": "q34",
+      "lesson": "locations",
+      "prompt": "Eu sou ___ China.",
+      "options": [
+        "da",
+        "na",
+        "do",
+        "no"
+      ],
+      "answer": "da",
+      "why": "ser de + a China → da China。"
+    },
+    {
+      "id": "q35",
+      "lesson": "locations",
+      "prompt": "Eu moro ___ Portugal.",
+      "options": [
+        "em",
+        "no",
+        "na",
+        "do"
+      ],
+      "answer": "em",
+      "why": "Portugal 通常不用定冠词，因此 em Portugal。"
+    },
+    {
+      "id": "q36",
+      "lesson": "locations",
+      "prompt": "Ela está ___ aulas.",
+      "options": [
+        "nas",
+        "nos",
+        "das",
+        "no"
+      ],
+      "answer": "nas",
+      "why": "em + as aulas → nas aulas。"
+    },
+    {
+      "id": "q37",
+      "lesson": "to",
+      "prompt": "Vou ___ museu.",
+      "options": [
+        "ao",
+        "à",
+        "no",
+        "do"
+      ],
+      "answer": "ao",
+      "why": "ir a + o museu → ao museu。"
+    },
+    {
+      "id": "q38",
+      "lesson": "to",
+      "prompt": "Vou ___ universidade.",
+      "options": [
+        "à",
+        "ao",
+        "na",
+        "da"
+      ],
+      "answer": "à",
+      "why": "ir a + a universidade → à universidade。"
+    },
+    {
+      "id": "q39",
+      "lesson": "to",
+      "prompt": "a + os = ?",
+      "options": [
+        "aos",
+        "nas",
+        "dos",
+        "às"
+      ],
+      "answer": "aos",
+      "why": "a + os 缩合为 aos。"
+    },
+    {
+      "id": "q40",
+      "lesson": "ar",
+      "prompt": "Eu ___ português. (falar)",
+      "options": [
+        "falo",
+        "fala",
+        "falamos",
+        "falam"
+      ],
+      "answer": "falo",
+      "why": "-AR: eu → -o。"
+    },
+    {
+      "id": "q41",
+      "lesson": "ar",
+      "prompt": "Você ___ na universidade. (estudar)",
+      "options": [
+        "estuda",
+        "estudo",
+        "estudam",
+        "estudamos"
+      ],
+      "answer": "estuda",
+      "why": "-AR: você → -a。"
+    },
+    {
+      "id": "q42",
+      "lesson": "ar",
+      "prompt": "Ana e eu ___ juntos. (trabalhar)",
+      "options": [
+        "trabalhamos",
+        "trabalham",
+        "trabalha",
+        "trabalho"
+      ],
+      "answer": "trabalhamos",
+      "why": "Ana e eu = nós → -amos。"
+    },
+    {
+      "id": "q43",
+      "lesson": "ar",
+      "prompt": "Eles ___ português. (falar)",
+      "options": [
+        "falam",
+        "falo",
+        "fala",
+        "falamos"
+      ],
+      "answer": "falam",
+      "why": "eles → -am。"
+    },
+    {
+      "id": "q44",
+      "lesson": "erir",
+      "prompt": "Nós ___ pão. (comer)",
+      "options": [
+        "comemos",
+        "comimos",
+        "comem",
+        "come"
+      ],
+      "answer": "comemos",
+      "why": "comer 是 -ER：nós → -emos。"
+    },
+    {
+      "id": "q45",
+      "lesson": "erir",
+      "prompt": "Nós ___ o livro. (abrir)",
+      "options": [
+        "abrimos",
+        "abremos",
+        "abrem",
+        "abre"
+      ],
+      "answer": "abrimos",
+      "why": "abrir 是 -IR：nós → -imos。"
+    },
+    {
+      "id": "q46",
+      "lesson": "erir",
+      "prompt": "Ela ___ a porta. (abrir)",
+      "options": [
+        "abre",
+        "abro",
+        "abrimos",
+        "abrem"
+      ],
+      "answer": "abre",
+      "why": "-IR: ela → -e。"
+    },
+    {
+      "id": "q47",
+      "lesson": "erir",
+      "prompt": "Eles ___ juntos. (comer)",
+      "options": [
+        "comem",
+        "comemos",
+        "come",
+        "comam"
+      ],
+      "answer": "comem",
+      "why": "-ER: eles → -em。"
+    },
+    {
+      "id": "q48",
+      "lesson": "estar",
+      "prompt": "Eu ___ cansada agora.",
+      "options": [
+        "estou",
+        "sou",
+        "é",
+        "somos"
+      ],
+      "answer": "estou",
+      "why": "此刻状态：eu estou。"
+    },
+    {
+      "id": "q49",
+      "lesson": "estar",
+      "prompt": "O livro ___ na mesa.",
+      "options": [
+        "está",
+        "é",
+        "sou",
+        "são"
+      ],
+      "answer": "está",
+      "why": "位置用 estar，livro 单数 → está。"
+    },
+    {
+      "id": "q50",
+      "lesson": "estar",
+      "prompt": "Nós ___ na biblioteca.",
+      "options": [
+        "estamos",
+        "somos",
+        "estão",
+        "estou"
+      ],
+      "answer": "estamos",
+      "why": "地点 estar，nós estamos。"
+    },
+    {
+      "id": "q51",
+      "lesson": "estar",
+      "prompt": "Eles ___ felizes.",
+      "options": [
+        "estão",
+        "são",
+        "estamos",
+        "está"
+      ],
+      "answer": "estão",
+      "why": "此时状态：eles estão。"
+    },
+    {
+      "id": "q52",
+      "lesson": "terha",
+      "prompt": "Eu ___ aula amanhã.",
+      "options": [
+        "tenho",
+        "tem",
+        "têm",
+        "há"
+      ],
+      "answer": "tenho",
+      "why": "“我有课”用 eu tenho。"
+    },
+    {
+      "id": "q53",
+      "lesson": "terha",
+      "prompt": "___ três livros na mesa. (正式书面：存在)",
+      "options": [
+        "Há",
+        "Tenho",
+        "Sou",
+        "Estão"
+      ],
+      "answer": "Há",
+      "why": "表示存在：Há três livros。"
+    },
+    {
+      "id": "q54",
+      "lesson": "terha",
+      "prompt": "Eles ___ dois livros.",
+      "options": [
+        "têm",
+        "tem",
+        "tenho",
+        "há"
+      ],
+      "answer": "têm",
+      "why": "eles têm（复数重音）。"
+    },
+    {
+      "id": "q55",
+      "lesson": "terha",
+      "prompt": "Você ___ uma caneta?",
+      "options": [
+        "tem",
+        "têm",
+        "tenho",
+        "somos"
+      ],
+      "answer": "tem",
+      "why": "você tem 是第三人称单数。"
+    },
+    {
+      "id": "q56",
+      "lesson": "questions",
+      "prompt": "“你在哪里学习？”开头用：",
+      "options": [
+        "Onde",
+        "Quando",
+        "Quem",
+        "Quanto"
+      ],
+      "answer": "Onde",
+      "why": "Onde 问地点。"
+    },
+    {
+      "id": "q57",
+      "lesson": "questions",
+      "prompt": "“你什么时候上课？”开头用：",
+      "options": [
+        "Quando",
+        "Quem",
+        "Onde",
+        "Quanto"
+      ],
+      "answer": "Quando",
+      "why": "Quando 问时间。"
+    },
+    {
+      "id": "q58",
+      "lesson": "questions",
+      "prompt": "“多少节课？”怎么问？",
+      "options": [
+        "Quantas aulas?",
+        "Quantos aulas?",
+        "Quanta aulas?",
+        "Quanto aulas?"
+      ],
+      "answer": "Quantas aulas?",
+      "why": "aulas 阴性复数 → quantas。"
+    },
+    {
+      "id": "q59",
+      "lesson": "questions",
+      "prompt": "“我不知道”怎么说？",
+      "options": [
+        "Não sei.",
+        "Sei não é.",
+        "Não sou.",
+        "Não há sei."
+      ],
+      "answer": "Não sei.",
+      "why": "否定 não 放在变位动词 sei 前。"
+    },
+    {
+      "id": "q60",
+      "lesson": "countries",
+      "prompt": "哪一个是巴西的葡语国家名称？",
+      "options": [
+        "o Brasil",
+        "o Brazil",
+        "a Brasil",
+        "o Brazilian"
+      ],
+      "answer": "o Brasil",
+      "why": "葡语是 Brasil；通常与定冠词 o 搭配。"
+    },
+    {
+      "id": "q61",
+      "lesson": "countries",
+      "prompt": "“她是巴西人”怎么说？",
+      "options": [
+        "Ela é brasileira.",
+        "Ela é brasileiro.",
+        "Ela é Brasil.",
+        "Ela está Brasil."
+      ],
+      "answer": "Ela é brasileira.",
+      "why": "国籍形容词跟所描述的人性别配合。"
+    },
+    {
+      "id": "q62",
+      "lesson": "countries",
+      "prompt": "哪一个国家名的拼写和大小写正确？",
+      "options": [
+        "Portugal",
+        "portugal",
+        "Português",
+        "português"
+      ],
+      "answer": "Portugal",
+      "why": "Portugal 是国家；português 可表示语言/国籍形容词。"
+    },
+    {
+      "id": "q63",
+      "lesson": "countries",
+      "prompt": "“我说葡萄牙语”怎么说？",
+      "options": [
+        "Falo português.",
+        "Falo Português.",
+        "Falo Portugal.",
+        "Sou português língua."
+      ],
+      "answer": "Falo português.",
+      "why": "语言名通常小写：português。"
+    },
+    {
+      "id": "q64",
+      "lesson": "possessive",
+      "prompt": "___ amigo（我的男性朋友）",
+      "options": [
+        "meu",
+        "minha",
+        "meus",
+        "minhas"
+      ],
+      "answer": "meu",
+      "why": "meu 跟 o amigo（阳性单数），不看说话人性别。"
+    },
+    {
+      "id": "q65",
+      "lesson": "possessive",
+      "prompt": "___ aula（我的课）",
+      "options": [
+        "minha",
+        "meu",
+        "meus",
+        "minhas"
+      ],
+      "answer": "minha",
+      "why": "a aula 阴性单数 → minha aula。"
+    },
+    {
+      "id": "q66",
+      "lesson": "possessive",
+      "prompt": "___ livros（我的书，复数）",
+      "options": [
+        "meus",
+        "meu",
+        "minha",
+        "minhas"
+      ],
+      "answer": "meus",
+      "why": "os livros 阳性复数 → meus livros。"
+    },
+    {
+      "id": "q67",
+      "lesson": "possessive",
+      "prompt": "O livro ___（她的书）",
+      "options": [
+        "dela",
+        "dele",
+        "minha",
+        "seus"
+      ],
+      "answer": "dela",
+      "why": "dela 指女性拥有者。"
+    },
+    {
+      "id": "q68",
+      "lesson": "possessive",
+      "prompt": "O livro ___（他的书）",
+      "options": [
+        "dele",
+        "dela",
+        "minhas",
+        "nosso"
+      ],
+      "answer": "dele",
+      "why": "dele 指男性拥有者。"
+    },
+    {
+      "id": "q69",
+      "lesson": "possessive",
+      "prompt": "___ aulas（我们的课）",
+      "options": [
+        "nossas",
+        "nosso",
+        "nossa",
+        "nossos"
+      ],
+      "answer": "nossas",
+      "why": "as aulas 阴性复数 → nossas。"
+    },
+    {
+      "id": "q70",
+      "lesson": "friends",
+      "prompt": "Eu ___ música.（我喜欢音乐）",
+      "options": [
+        "gosto de",
+        "gosto",
+        "gosta de",
+        "sou de"
+      ],
+      "answer": "gosto de",
+      "why": "gostar 后接 de：gosto de música。"
+    },
+    {
+      "id": "q71",
+      "lesson": "friends",
+      "prompt": "Ela ___ estudar.（她喜欢学习）",
+      "options": [
+        "gosta de",
+        "gosto de",
+        "gosta",
+        "gostamos"
+      ],
+      "answer": "gosta de",
+      "why": "ela → gosta；gostar de + 动词原形。"
+    },
+    {
+      "id": "q72",
+      "lesson": "friends",
+      "prompt": "“我需要一本书”怎么说？",
+      "options": [
+        "Preciso de um livro.",
+        "Preciso um livro.",
+        "Sou de um livro.",
+        "Estou de um livro."
+      ],
+      "answer": "Preciso de um livro.",
+      "why": "precisar de 是固定搭配。"
+    },
+    {
+      "id": "q73",
+      "lesson": "friends",
+      "prompt": "Nós estudamos ___.（混合性别，大家一起）",
+      "options": [
+        "juntos",
+        "junto",
+        "junta",
+        "juntas"
+      ],
+      "answer": "juntos",
+      "why": "混合性别复数通常 juntos。"
+    },
+    {
+      "id": "q74",
+      "lesson": "reading",
+      "prompt": "葡语 livraria 是什么？",
+      "options": [
+        "书店",
+        "图书馆",
+        "上课",
+        "字典"
+      ],
+      "answer": "书店",
+      "why": "与 English library 长得像但不同义。"
+    },
+    {
+      "id": "q75",
+      "lesson": "reading",
+      "prompt": "看不懂葡语长句，优先做什么？",
+      "options": [
+        "先抓主语、动词和大意",
+        "每个单词都马上查字典",
+        "只看第一个字",
+        "跳过所有动词"
+      ],
+      "answer": "先抓主语、动词和大意",
+      "why": "先整体理解，再处理关键生词。"
+    },
+    {
+      "id": "q76",
+      "lesson": "family",
+      "prompt": "a mãe 是？",
+      "options": [
+        "母亲",
+        "父亲",
+        "姐妹",
+        "女儿"
+      ],
+      "answer": "母亲",
+      "why": "a mãe 是母亲。"
+    },
+    {
+      "id": "q77",
+      "lesson": "family",
+      "prompt": "os pais 最常见意思是什么？",
+      "options": [
+        "父母",
+        "很多国家",
+        "两本书",
+        "兄弟姐妹"
+      ],
+      "answer": "父母",
+      "why": "os pais 通常指父母；“国家们”是 países。"
+    }
+  ]
+}
